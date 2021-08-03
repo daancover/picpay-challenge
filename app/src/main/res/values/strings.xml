@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PicPay</string>
+    <string name="title">Contatos</string>
+
+    <string name="error_title">Oops</string>
+    <string name="error">Ocorreu um erro. Tente novamente.</string>
+    <string name="device_not_connected_error">Seu dispositivo parece não estar conectado à internet. Por favor, verifique sua conexão e tente novamente.</string>
+    <string name="try_again_button">Tentar novamente</string>
+    <string name="error_button">OK</string>
+</resources>
